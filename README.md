@@ -1,3 +1,4 @@
+#mountTMP-RAM
 <li><a name="an_n2"></a><span class="nivel1">Modificaciones a realizar</span>
     Para realizar esta modificación tendremos que editar el archivo <span class="codigo">/etc/fstab</span>.<p></p>
     <blockquote>
