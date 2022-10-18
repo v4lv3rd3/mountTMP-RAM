@@ -1,5 +1,5 @@
 # mountTMP-RAM
-<li><a name="an_n2"></a><span class="nivel1">Modificaciones a realizar</span> <a href="#an_indice" target="_self" rel="noopener noreferrer">(Volver al índice General)</a><br>
+<li><a name="an_n2"></a><span class="nivel1">Modificaciones a realizar</span>
 Para realizar esta modificación tendremos que editar el archivo <span class="codigo">/etc/fstab</span>.<p></p>
 <blockquote><p><span class="cita"><strong>NOTA:</strong> Es aconsejable hacer una copia de seguridad del archivo <span class="codigo">/etc/fstab</span>. Para hacerlo podemos utilizar el siguiente comando:</span></p>
 
